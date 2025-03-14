@@ -206,7 +206,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliteZ6427&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cossackdev777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
