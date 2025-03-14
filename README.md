@@ -264,7 +264,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 
 <p align="center">
-<a href="https://github.com/eliteZ6427?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=eliteZ6427&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/Cossackdev777?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Cossackdev777&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <p align="center">
