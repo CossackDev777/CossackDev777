@@ -96,16 +96,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
       <br>NextJS
     </td>
     <td align="center" width="116">
-	<svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 32 32"
-        class="fill-current"
-    	>
-	        <path
-	            d="M 28.28125 6.28125 L 11 23.5625 L 3.71875 16.28125 L 2.28125 17.71875 L 10.28125 25.71875 L 11 26.40625 L 11.71875 25.71875 L 29.71875 7.71875 Z"
-	        />
-    	</svg>
-<!--         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /> -->
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
     <td align="center" width="116">
