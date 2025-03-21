@@ -192,16 +192,16 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=eliteZ6427&theme=blueberry&border=61dafb&hide_border=true" alt="eliteZ6427" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=CossackDev777&theme=blueberry&border=61dafb&hide_border=true" alt="CossackDev777" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=eliteZ6427&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=CossackDev777&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliteZ6427&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CossackDev777&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -214,12 +214,12 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/eliteZ6427/Footprints" title="Footprints"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliteZ6427&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/eliteZ6427/Archeology" title="Archeology"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliteZ6427&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/CossackDev777/Footprints" title="Footprints"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CossackDev777&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/CossackDev777/Archeology" title="Archeology"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CossackDev777&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/eliteZ6427?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/CossackDev777?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <!-- ## Tools -->
